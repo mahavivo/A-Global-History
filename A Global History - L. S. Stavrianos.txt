@@ -1255,6 +1255,7 @@ V. DEMOGRAPHIC AND RACIAL RESULTS
 
 We have seen that population increase was responsible for the agricultural revolution, but that revolution in turn caused still more population increase. Many more people can be supported per square mile by growing rather than gathering food. It is no surprise, therefore, that between 10,000 and 2,000 years ago the human population jumped from 5.32 million to 133 million, a twenty-five-fold increase within 8,000 years.
 
+
 🔻LOW PRODUCTIVITY OF TRIBAL SOCIETY
 
 A Western observer kept the following record of the work of the Bemba tribe of Northern Rhodesia (now Zambia) during the month of September 1933. Admittedly this is a slack time of the year, when more beer is drunk than normally. Nevertheless the following selections from the record show that the Bemba tribe members do not have to cope with the "daily grind" of modern industrial society.\*
@@ -1309,6 +1310,7 @@ NOTES
 2. L. H. Morgan, Houses and House-Life of the American Aborigines (New York, 1881), p. 45.
 
 3. J. H. Provine, "Cooperative Ricefield Cultivation Among the Siang Dyaks of Central Borneo," American Anthropologist, Vol. 39, No. 1 (1937), pp. 80–91.
+
 
 ⭕What It Means for Us Today
 
@@ -1424,8 +1426,7 @@ I have seen the metal-worker at his task at the mouth of his furnace, with finge
 
 Apply your heart to learning. In truth there is nothing that can compare with it. If you have profited by a single day at school it is a gain for eternity.2
 
-Early Egyptian painting,about 3000 B.C.E., portrays tribes of peasants immigrating to Egypt.
-🔴![](data:image/jpeg;base64...)
+🔴![](data:image/jpeg;base64...)Early Egyptian painting,about 3000 B.C.E., portrays tribes of peasants immigrating to Egypt.
 
 Obviously the Bemba tribal members enjoyed more comfortable and carefree lives than did the wretched farmers, masons, barbers, and metalworkers described by the Egyptian father. But precisely because the tribalists were better off, they were also doomed. They were far less productive than their Egyptian counterparts who were forced to work ever harder to meet the exactions of landlords and tax collectors. Thus, tribal societies were elbowed off the historical stage as inexorably as hunting bands had been shoved off earlier by tribal cultivators.
 
@@ -1529,8 +1530,7 @@ Royal authority was enforced by a bureaucracy headed by the vizier— "the stewa
 
 A final distinctive feature of Egyptian civilization was the overwhelming state domination of economic life. Individual property and enterprise were not unknown, but neither were they as common as in Mesopotamia. The state not only controlled most production, both agricultural and handicraft, but also directed distribution. Huge government warehouses and granaries were filled with taxes collected in kind— grains, animals, cloths, and metals. These were used for state expenses and also provided
 
-Queen Nefertari guided by Isis.
-🔴![](data:image/jpeg;base64...)
+🔴![](data:image/jpeg;base64...)Queen Nefertari guided by Isis.
 
 🔴![](data:image/jpeg;base64...)Sphinx
 
@@ -1544,8 +1544,7 @@ The style of the Minoan civilization of the island of Crete is summed up by the 
 
 This trade affected all aspects of the Minoan civilization. None of the cities was fortified because Minoan sea power was strong enough to protect the island. Cretan communities seem to have been socially and economically more egalitarian than their counterparts on the mainland. In place of a few great temples and palaces surrounded by relative slums, the pattern on Crete was the open village, with its outdoor shrine as the center for community life.
 
-Minos Palace in Crete, Greece
-🔴![](data:image/jpeg;base64...)
+🔴![](data:image/jpeg;base64...)Minos Palace in Crete, Greece
 
 Families as a rule lived in individual houses built of timber and stucco. Domestic slaves probably were held, though not in large numbers. Archeologists have found no buildings that appear to have been slave quarters, so Cretan galleys presumably were rowed by freemen.
 
@@ -1559,8 +1558,7 @@ The style of the civilization in the Indus River valley was conservative, religi
 
 Like all the other ancient civilizations, that of the Indus was predominantly agricultural. Wheat and barley were the staples, but field peas, melons, sesame, and dates were also grown, as well as cotton, which was first used for cloth making in this valley. There was also considerable trade with the outside world; the exported items included peacocks, apes, pearls, cotton textiles, copper, ivory, and ivory articles such as combs. Combs were fashioned in the same pattern as those still used in India today and are still indispensable for combing lice out
 
-Indus stone stamp seals. Note the familiar humped bull of India.
-🔴![](data:image/jpeg;base64...)
+🔴![](data:image/jpeg;base64...)Indus stone stamp seals. Note the familiar humped bull of India.
 
 of the hair. Most foreign trade was with Mesopotamia, and goods were transported with sailing boats that followed the coast to the Persian Gulf. If their ships were driven from sight of land, the sailors released crows that always flew toward the nearest point of coast. According to the Bible, this is precisely the method followed by Noah in the Ark, when he wished to find out where the land lay.
 
@@ -1987,7 +1985,6 @@ Ten years later the Persians came again with much larger forces, and this time b
 
 🔴![](data:image/jpeg;base64...)The bronze helmut was dedicated to Zeus by Miltiades to commemorate the Athenian victory over the Persians in 490 B.C.E.
 
-
 last man at the pass of Thermopylae. The Persians pressed on to Athens, which they sacked, but the Athenian fleet destroyed the Persians in nearby Salamis. An allied Greek fleet followed the retreating Persians across the Aegean and won another naval victory. Soon the Asia Minor cities were freed from Persian rule, and the Greeks emerged as the victors over the great empire that dominated the Middle East.
 
 The repercussions of the Greek triumph were tremendous. First and foremost, it saved the Greeks from being engulfed in an oriental despotism, thereby allowing them to preserve their identity and to make their unique contribution to human civilization. The success of the Greeks, and especially of the Athenian fleet, also furthered the cause of democracy, for the rowers who drove the ships into battle were citizens who could not afford to equip themselves as hoplites. Thus the urban poor now assumed a military role even more important than that of the propertied hoplites. This naturally strengthened the movement for more democracy, which reached its height during the Age of Pericles (461–429 B.C.E.).
@@ -2001,6 +1998,7 @@ ly on the small island of Delos, its purpose was collective security against pos
 Almost inevitably, the sea power of Athens clashed with the land power of Sparta. The fighting dragged on indecisively for ten years. The Spartan armies raided Attica each year but could not penetrate the long walls that joined Athens to the sea and protected its supplies. The Athenians for their part were badly hurt by the great plague of 429 B.C.E., which killed off almost half the population, including Pericles. For a time they could only make random raids on the coast of the Peloponnesus. Then in 415 the fatal decision was made to send the Athenian fleet to capture Sicily and cut off Sparta's grain supply. "Fleet and army," wrote Thucydides, "perished from the face of the earth, nothing was saved." Athens' allies now revolted; the Spartans finally destroyed the long wall; and Athens was starved into capitulation in 404 B.C.E. Athens was left shorn of its fleets, its empire, and even its vaunted democracy, for the Spartan victors imposed a short-lived oligarchic regime.
 
 This ruinous war left the Greek world exhausted and solved none of its problems. Spartan high-handedness caused Thebes and Athens to unite together in a new league for mutual protection. In 371 the Thebans inflicted on the Spartans their first major military defeat in two hundred years. For the next decade Thebes was supreme on the Greek mainland, but then intercity rivalries prevailed again, and the city-states once more were engulfed in a confused anarchy of shifting alliances and petty wars. The stage was set for a foreign power to
+
 
 🔻PERICLES'S FUNERAL ORATION
 
@@ -2551,6 +2549,7 @@ Confucius also was a rationalist in an age of gross superstition and fear of the
 
 Confucius's teachings were far from being generally accepted, let alone applied, during his lifetime. Yet in the end they prevailed and became the official creed of the nation. One reason was his basic conservatism, his acceptance of the status quo, which naturally appealed to those at the top. Another was his emphasis on ethical principles, which he insisted were essential for the proper exercise of authority. Finally, Confucius provided a philosophy for officialdom, for the bureaucrats who became indispensable with the establishment of imperial government 250 years after his death. As a famous
 
+
 🔻TEACHINGS OF CONFUCIUS
 
 Confucianism was above all a practical moral system concerned with the problems of everyday life. The main emphasis was on propriety and social responsibility, as evident in the following sections.\*
@@ -3054,6 +3053,7 @@ IV. EXPANDING HORIZONS
 
 The great breakthrough in European knowledge of the world came with the Mongol Empire. Its existence brought about the transition from a Mediterranean to a Eurasian perspective, just as the voyages of Columbus and da Gama later brought about a transition from a Eurasian to a global perspective. The travels of merchants, missionaries, and prisoners of war revealed the existence of a great empire in the Far East that not only equaled but surpassed Europe in population, wealth, and level of civilization. Nor was this a one-way process, for the East now became aware of the West as well. Marco Polo, who opened the eyes of the West to Cathay, had his counterparts in China and the Middle East.
 
+
 🔻MARCO POLO'S NEW WORLD
 
 Medieval Eurasia was united primarily by merchants who traveled back and forth from the Mediterranean Sea to China and Southeast Asia. The following excerpts from Marco Polo's great travel account make clear how much the horizons of the medieval world were opening up.\*
@@ -3069,6 +3069,7 @@ When you sail from Chamba [Indochina], 1500 miles in a course between south and 
 When you leave the Island of Seilan [Ceylon] and sail westward about 60 miles, you come to the great province of Maabar which is styled India the Greater; it is best of all the Indies and is on the mainland.... The people are Idolaters, and many of them worship the ox [sacred cow], because it is a creature of such excellence. They would not eat beef for anything in the world, nor would they on any account kill an ox.
 
 \*H. Yule, ed. and trans., The Book of Ser Marco Polo (Scribner's, 1903), vol. 1, pp. 423-426; vol. 2, pp. 249-250, 253-254.
+
 
 We know of Chinese trading colonies in Moscow, Tabriz, and Novgorod during this period. Chinese engineers were employed on irrigation projects in Mesopotamia. Also there are records of Chinese bureaucrats who accompanied Genghis Khan on his campaigns and inspection tours from one end of Eurasia to the other. In addition there was the Christian Nestorian monk Rabban Bar Sauma, who was born in Peking and who traveled in 1278 to the Moslem court in Baghdad. From there he was sent by the Mongols to Europe to seek Christian help against Islam. Starting out in 1287, he traveled to Constantinople, Naples, Rome, Paris, and London, meeting en route both Philip IV of France and Edward I of England. The most wide-ranging of these medieval travelers was the Moslem Ibn Battuta (1304–1378). Starting from his native Morocco, he made the pilgrimage to Mecca and journeyed on through Samarkand to
 
@@ -3160,6 +3161,7 @@ Under Caliph Omar, who succeeded Abu Bakr in 634, the early raids blossomed into
 Once the invasions were under way the Arabs made good use of their experience in desert warfare. Mounted on camels, instead of horses like the Byzantines and Persians, they were able to attack at will and, if necessary, to retreat back to the safety of the desert. Just as the Vikings later were capable of ravaging the coasts of Europe because of their command of the sea, so now the Arabs used their "ships of the desert" to attack the wealthy empires. It was not accidental that in the provinces they conquered, the Arabs established their main bases in towns on the edge of the desert. They used existing cities like Damascus when they were suitably located and when necessary created new ones. These garrison towns met the same need for the emerging Arab Empire that Gibraltar, Malta, and Singapore later did for the British sea empire.
 
 In 636 the Arabs won a decisive victory over the Byzantines in the ravines of the Yarmuk River, a tributary of the Jordan. Attacking in the midst of a blinding sandstorm they almost annihilated a mixed force of Greek, Armenian, and Syrian Christians. Emperor Heraclius fled to Constantinople, abandoning all of Syria to the
+
 
 🔻CHRISTIAN-MOSLEM MUTUAL SLANDER
 
@@ -3303,7 +3305,6 @@ While the Turks were becoming the masters of the Moslem world,an obscure chiefta
 He was now in a position to satisfy his nomadic impulse for conquest and booty. "Man's highest joy," he reportedly said, "is in victory: to conquer one's enemies, to pursue them,to deprive them of their possessions, to make their beloved weep, to ride on their horses, and to embrace their wives and daughters." In this respect Genghis Khan was no different from the long line of steppe conquerors who had gone before him. Why then was he alone destined to become the master of the greater part of Eurasia? This question is particularly intriguing
 
 🔴![](data:image/jpeg;base64...)Fifteenth-century Chinese painting showing Genghis Khan hunting.
-
 
 🔴![](data:image/jpeg;base64...)Mongol Empire at the Death of Kublai Khan,1294
 
@@ -3672,6 +3673,7 @@ Ming and Ch'ing China were ruled by the bureaucracy and the gentry together, if 
 
 By contrast, it is revealing and significant that the Ming government took the initiative in controlling and repressing the merchant class. This was a basic and most meaningful difference between the Western and Chinese societies. In the West, as will be noted in the following chapter, the bourgeoisie from the start enjoyed considerable autonomy and was able to increase it
 
+
 🔻ROOTS OF CHINESE STABILITY
 
 Foreign observers invariably were impressed by the antiquity and stability of Chinese civilization. T.T. Meadows, a British consular officer who served in China in the mid-nineteenth century, gave the following explanation based on first-hand observation.*
@@ -3874,6 +3876,7 @@ In the eleventh century, cathedral schools were established by the bishops for t
 
 The educational and intellectual environment changed with the Renaissance ferment of the period from roughly 1350 to 1600. The Renaissance got under way first in Italy and hence reflected the conditions and values of contemporary Italian society. This was a bustling urban society based on flourishing industries and on the profitable commerce between western Europe and the wealthy Byzantine and Islamic empires. Prosperous cities such as Venice, Genoa, Florence, Milan, and Pisa were dominated by the great merchant families, who controlled politics as well as trade and crafts. It was these families that were the patrons of Renaissance artists and writers. Their needs, interests, and tastes colored the Renaissance cultural revival, even though the patrons included ducal families such as the Sforza of Milan, as well as popes such as Nicholas V, Pius II, Julius
 
+
 🔻THE RENAISSANCE GENIUS
 
 The supremely talented Leonardo da Vinci was an outstanding Renaissance figure. He personified his age, not only because of his achievements in so many fields, but also because of his readiness to advertise his genius. At the age of thirty he wrote the following letter to the Duke of Milan, who was sufficiently impressed to hire the young man.*
@@ -4059,6 +4062,7 @@ NOTES
 11. Ibid., p. 228.
 
 12. Republished in "Dear Abby" column by Abigail Van Buren, Los Angeles Times, June 17, 1979.
+
 
 ⭕What It Means for Us Today
 
@@ -4300,8 +4304,7 @@ The migrants to the New World brought little cultural baggage with them since th
 
 During the ensuing millennia the American Indians did indeed develop an extraordinarily rich variety of cultures, which were adapted to one another as well as to the wide range of physical environments they encountered. Some remained at the hunting-band stage, whereas others developed kingdoms and empires. Their
 
-![](data:image/jpeg;base64...)
-Olmec Head. This colossal head, now in the Museo Nacional de Antropologia in Mexico City, was excavated at San Lorenzo. Carved of Basalt, it may be a portrait of an Olmec ruler. Olmec civilization thrived between 1500 and 800 B.C.E.
+🔴![](data:image/jpeg;base64...)Olmec Head. This colossal head, now in the Museo Nacional de Antropologia in Mexico City, was excavated at San Lorenzo. Carved of Basalt, it may be a portrait of an Olmec ruler. Olmec civilization thrived between 1500 and 800 B.C.E.
 
 religions encompassed all known categories, including monotheism. They spoke perhaps 2,000 distinct languages, some as different from one another as Chinese and English. This number represents almost as much variation in speech as found in the entire Old World, where about 3,000 languages are known to have existed in 1500 C.E. Nor were these languages primitive, either in vocabulary or in any other respect. Whereas Shakespeare used about 24,000 words, and the King James Bible about 7,000, the Nahuatl of Mexico used 27,000 words, and the Yahgans of Tierra del Fuego, considered to be one of the world's most culturally retarded peoples, possess a vocabulary of at least 30,000 words.
 
@@ -4321,8 +4324,7 @@ The three major Amerindian civilizations were the Mayan, in present-day Yucatan,
 
 Mayan cities, if they may be so called, were ceremonial centers rather than fortresses, dwell
 
-![](data:image/jpeg;base64...)
-Mayan figure of a dignitary or priest.
+🔴![](data:image/jpeg;base64...)Mayan figure of a dignitary or priest.
 
 ing places, or administrative capitals. This was so because the Mayas practiced slash-and-burn agriculture, which exhausted the soil within two or three years, requiring constant moving of the village settlements. To balance this transitory mode of life, the Maya cultivators expressed their social unity by erecting large stone buildings in centers that were devoted primarily to religious ceremonies. These buildings were large temple pyramids and also community houses in which the priests and novices probably lived. The architecture, produced entirely with stone tools, was decorated with sculpture that was unsurpassed in the Americas and that ranks as one of the world's great arts.
 
@@ -4332,11 +4334,9 @@ The Aztecs were brusque and warlike compared to the artistic and intellectual Ma
 
 The chinampas enabled the Aztecs to boom in numbers and wealth. Early in the fifteenth century they made alliances with towns on the lake shore, and from that foothold they quickly extended their influence in all directions. Raiding expeditions went out regularly, forcing other peoples to pay tribute in kind and in services. By the time the Spaniards appeared on the scene, Aztec domination extended to the Pacific on the west, to the Gulf of Mexico on the east, almost to the Yucatan on the south, and to the Rio Grande on the north. The capital, Tenochtitlán, was by then a magnificent city of 200,000 to 300,000 people, linked to the shore by causeways. The conqueror Cortes compared the capital to Venice and judged it to be "the most beautiful city in the world."
 
-![](data:image/jpeg;base64...)
-Amerindian Empires on the Eve of the Spanish Conquest
+🔴![](data:image/jpeg;base64...)Amerindian Empires on the Eve of the Spanish Conquest
 
-![](data:image/jpeg;base64...)
-A turquoise mosaic of a double headed serpent of the Aztec culture.
+🔴![](data:image/jpeg;base64...)A turquoise mosaic of a double headed serpent of the Aztec culture.
 
 Aztec power was based on constant war preparedness. All men were expected to bear arms, and state arsenals were always stocked and ready for immediate use. With their efficient military machine the Aztecs were able to extract a staggering amount of tribute from their subjects. According to their own records, they collected in one year 14 million pounds of maize, 8 million pounds each of beans and amaranth, and 2 million cotton cloaks in addition to assorted other items such as war costumes, shields, and precious stones.
 
@@ -4354,8 +4354,7 @@ From their imperial city of Cuzco in the Peruvian highlands, the Incas sent fort
 
 This empire was held together physically by a road system, which can still be traced for hundreds of miles and which included cable bridges of plaited aloe fiber and floating bridges on pontoons of buoyant reeds. Equally important was an extensive irrigation system, parts of which are still in use and which made the Inca
 
-![](data:image/jpeg;base64...)
-The Inca city of Machu Picchu perches on a saddle between two peaks on the eastern slopes of the Andes.
+🔴![](data:image/jpeg;base64...)The Inca city of Machu Picchu perches on a saddle between two peaks on the eastern slopes of the Andes.
 
 Empire a flourishing agricultural unit. Communications were maintained by a comprehensive system of post stations and relays of runners who conveyed messages swiftly to all parts of the empire.
 
@@ -4375,8 +4374,7 @@ The immediate significance of this technological lag should not be exaggerated. 
 
 ...two arsenals filled with arms of every description, of which many were ornamented with gold and precious stones. These arms consisted in shields of different sizes, sabres, and a species of broadsword,
 
-![](data:image/jpeg;base64...)
-The Pyramid of the Moon stands at the southern end of Teotihuacán's great central thoroughfare, the Avenue of the Dead.
+🔴![](data:image/jpeg;base64...)The Pyramid of the Moon stands at the southern end of Teotihuacán's great central thoroughfare, the Avenue of the Dead.
 
 which is wielded with both hands, the edge furnished with flint stones, so extremely sharp that they cut much better than our Spanish swords: further, lances of greater length than ours, with spikes at their end, full one fathom in length, likewise furnished with several sharp flint stones. The pikes are so very sharp and hard that they will pierce the strongest shield, and cut like a razor; so that the Mexicans even shave themselves with these stones. Then there were excellent bows and arrows, pikes with single and double points, and the proper thongs to throw them with; slings with round stones purposely made for them; also a species of large shield, so ingeniously constructed that it could be rolled up when not wanted; they are only unrolled on the field of battle, and completely cover the whole body from the head to the feet.3
 
@@ -5248,6 +5246,7 @@ Admiral of the Ocean Fleet.
 
 \*Reprinted from Old South Pamphlets, Vol. 2, No. 33 (Directors of the Old South Work, 1897).
 
+
 🔴![](data:image/jpeg;base64...)What Columbus knew of the world in 1492 was contained in this map by the Nuremberg geographer Martin Behaim, creator of the first spherical globe of the Earth. The ocean section of Behaim's globe is reproduced here. Departing the Canary Islands (in the second section from the right), Columbus expected his first major landfall to be Japan (Cipangu, in the second section from the left). When he landed at San Salvador, he thought he was on the outer island of Japan. And when he arrived in Cuba, he thought he was in Japan.
 
 Aztec empire in Mexico. During the quarter-century between this windfall and Columbus's first expedition, disappointment followed disappointment as the Spaniards explored the innumerable and unpromising islands of the West Indies. Columbus's great discovery appeared to be a grand failure. Several thousand adventurers had flocked to the West Indies and found disappointingly small quantities of gold. But there was an immediate reaction to the discovery of the New World that was very important. It prodded the Portuguese to circumnavigate Africa and reach India directly by sea.
@@ -6006,6 +6005,7 @@ The term industrial revolution is frequently challenged because it is used to de
 Yet the fact remains that during the 1780s a breakthrough did occur in productivity, or as economists now put it, there was “a takeoff into self-sustained growth." More specifically, a mechanized factory system was created that produced goods in vast quantities and at rapidly diminishing costs, so it was no longer dependent on existing demand but could create its own demand. An example of this now common but hitherto unknown phenomenon is the automobile industry. It was not the demand for automobiles that existed at the turn of the century that created the giant automobile industry of today. Rather, the capacity to build the cheap Model-T Ford, in large quantities, stimulated the modern mass demand for them.
 
 The first question that arises in considering the industrial revolution has to do with its timing. Why did it occur in the late eighteenth cen-
+
 
 🔻A RIDE ON AN EARLY RAILWAY
 
@@ -8140,6 +8140,7 @@ They were for the Revolution; and for the moment the Soviet power was the embodi
 
 \*C.R. Buxton, In a Russian Village (Labour Publishing Co., 1922), pp. 14–15, 19, 21, 26–27, 47–48.
 
+
 Revolution and Reaction in Central Europe
 
 The establishment of the Weimar Republic ensured that the rest of central Europe would not go communist. Nevertheless, for a number of years this part of Europe seethed with unrest and revolt. The peasant masses between the Baltic and the Aegean were politically awake and active to an unprecedented degree. One reason for the unrest was that millions of peasant army recruits had widened their horizons immeasurably as a result of their war experiences. They had observed not only the differences between city and village life but also the differences in living standards and social institutions among various countries. The peasants were also profoundly affected by the overthrow of the Hapsburg, Hohenzollern, and Romanoff dynasties. In the light of centuries-old traditions, this was a shock that aroused nationalist aspirations and class consciousness. Finally, the unprecedented destruction and suffering that took place during the long years of war aggravated the revolutionary situation, especially in the countries that had suffered defeat.
@@ -8934,6 +8935,7 @@ The breakup of the Grand Alliance was hastened by the failure of the Allied lead
 At the same time that Churchill was bargaining with Stalin in Moscow, British troops were beginning to land in Greece. They advanced northward on the heels of the retreating Germans but found the Greek resistance forces preceding them in all the towns and cities.No opposition was offered by these forces, led by disciplined Communists who obediently followed the current Kremlin line. They welcomed the small British units, although, had they wished, they could have easily barred them at that time just as the nationalist-minded Tito was doing in Yugoslavia.
 
 Despite the compliance of the Greek resistance forces, the fact remained that they were the preponderant military power in the country
+
 
 🔻CHURCHILL AND STALIN DIVIDE THE BALKANS
 
