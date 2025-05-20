@@ -1,3 +1,3 @@
-### L. S. Stavrianos 的《全球通史》
+### L. S. Stavrianos 的《全球通史》及其他
 
-OCR、校对英文版 "A History of the World: From Prehistory to the 21st Century"（7th Edition）
+OCR，校对整理一些我喜欢的世界史、西方史通识书籍
